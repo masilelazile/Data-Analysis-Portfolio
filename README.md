@@ -1,3 +1,2 @@
 # Data-Analysis-Portfolio
-HR Report
-SQL 
+HR Report in sql
